@@ -19,11 +19,11 @@
 ## Registration
 ![Registration](https://github.com/sakil-islam/evident-task/blob/main/djangoAuthProject/screenshort-evident-task/05.PNG)
 
-##home 
+## home 
 ![Login](https://github.com/sakil-islam/evident-task/blob/main/djangoAuthProject/screenshort-evident-task/02.PNG)
 ![Login](https://github.com/sakil-islam/evident-task/blob/main/djangoAuthProject/screenshort-evident-task/03.PNG)
 
-##API 
+## API 
 ![Login](https://github.com/sakil-islam/evident-task/blob/main/djangoAuthProject/screenshort-evident-task/04.PNG)
 
 <center><h1>Thank you</h1></center>
